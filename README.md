@@ -7,7 +7,7 @@ I'm a Bilingual Frontend Developer with 4 years of experience, I love layout and
 
 Here you can see some of my  development personal projects 🤖 
 
-[![github](https://img.shields.io/badge/my%20repo-44DB2E?style=for-the-badge&logo=github&logoColor=withe)](https://www.linkedin.com/in/https://github.com/SantiSB/SantiSB/)
+[![github](https://img.shields.io/badge/my%20repo-44DB2E?style=for-the-badge&logo=github&logoColor=withe)](https://github.com/SantiSB?tab=repositories)
 
 
 
