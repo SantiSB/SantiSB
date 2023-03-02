@@ -35,4 +35,4 @@ a.santiago.salas.b@gmail.com
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagosalasbola%C3%B1os/)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=withe)](https://github.com/SantiSB?tab=repositories)
-[![behance](https://img.shields.io/badge/behance-000000?style=for-the-badge&logo=behance&logoColor=withe)](https://www.behance.net/santiagosalasbolanos)
+[![behance](https://img.shields.io/badge/behance-0049ff?style=for-the-badge&logo=behance&logoColor=withe)](https://www.behance.net/santiagosalasbolanos)
